@@ -1,0 +1,74 @@
+{
+  "1539721335499128902": {
+    "enabled": true,
+    "ownerIds": [
+      "580908079999352847",
+      "558300829971513364"
+    ],
+    "autoLog": {
+      "enabled": true,
+      "sourceGuildId": "1539721335499128902",
+      "targetGuildId": "1541113271900307587",
+      "categoryId": "1541117714255585332",
+      "channels": {
+        "rank": "1541117715748491304",
+        "owner": "1541117717182943343",
+        "systeme": "1541117718780977325"
+      }
+    },
+    "syndicateIds": [],
+    "syndicatRoleIds": [
+      "1539742148407197696",
+      "1539742160579207208"
+    ],
+    "inspecteurRoleIds": [
+      "1539742180346961970",
+      "1539742181764497458"
+    ],
+    "chefGestionRoleIds": [
+      "1539742185002369115",
+      "1539742185929449532"
+    ],
+    "gestionStaffRoleIds": [
+      "1539742209530667038",
+      "1539742211745513492"
+    ],
+    "gestionAbusRoleIds": [
+      "1539742209530667038",
+      "1539742212735246529"
+    ]
+  },
+  "1533413450372612267": {
+    "enabled": true,
+    "ownerIds": [
+      "1502301034721185874"
+    ],
+    "autoLog": {
+      "enabled": false,
+      "sourceGuildId": null,
+      "targetGuildId": null,
+      "categoryId": null,
+      "channels": {}
+    },
+    "syndicateIds": [],
+    "syndicatRoleIds": [
+      "1533413953999343636"
+    ],
+    "inspecteurRoleIds": [
+      "1533413954695729215"
+    ],
+    "chefGestionRoleIds": [
+      "1533413973129564273",
+      "1533413974534520973",
+      "1533413975952195765"
+    ],
+    "gestionStaffRoleIds": [
+      "1533414001197715537",
+      "1533414003454378135"
+    ],
+    "gestionAbusRoleIds": [
+      "1533414001197715537",
+      "1533414004649754684"
+    ]
+  }
+}
